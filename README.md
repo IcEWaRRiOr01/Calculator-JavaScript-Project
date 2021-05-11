@@ -1,2 +1,4 @@
 # Calculator-JavaScript-Project
-Simple beginner JavaScript Calculator Project
+Simple Beginner JavaScript Calculator Project
+### Project preview
+![](./screenshot.png)
